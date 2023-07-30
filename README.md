@@ -1,2 +1,2 @@
-# Random
-Random python code
+# PythonCode
+Python code from the book *Linux Basics for Hackers*
